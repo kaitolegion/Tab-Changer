@@ -1,12 +1,14 @@
 ## Usage
-First Install Git
+First Install Git, Python Package
 
-Follow commands
+Follow commands:
 
 ```git clone https://github.com/kaitolegion/TermuxChanger```
 
 Change Shell
+
 ```bash setup.sh```
 
-Change Tab u need install python pkg
+Change Tab
+
 ```python tab.py```
